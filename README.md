@@ -1,3 +1,4 @@
+```javascript
 const IzetDelibasic = {
   pronouns: "he" || "him",
   languages: ["Javascript", "Typescript", "C++", "C#"],
